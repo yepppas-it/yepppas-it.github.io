@@ -16,7 +16,7 @@ timezone:
 
 title: Capa Zero # the main title
 
-tagline: Bitacora IT. # it will display as the subtitle
+tagline: Bitacora IT # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Guías prácticas para construir, optimizar y dominar tu entorno local desde la raíz.

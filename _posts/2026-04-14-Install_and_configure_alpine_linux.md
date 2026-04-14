@@ -18,7 +18,7 @@ La descarga de la ISO, se puede realizar accediendo a la siguiente página: <htt
 
 Se dispone de varias opciones de descarga, pero dado que se implementará sobre una máquina virtual, utilizaremos la versión **VIRTUAL**.
 
-![Download](assets/posts/2026-04-14/2026-04-14_01.png){: width="972" height="589" .w-50 .left}
+![Download](assets/posts/2026-04-14/2026-04-14_01.png){: width="319" height="431" .w-75 .normal}
 
 
 # Instalación del sistema operativo

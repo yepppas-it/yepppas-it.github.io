@@ -1,6 +1,6 @@
 ---
 title: Instalación y configuración de Alpine Linux
-categories: [Sistema operativo, Alpine Linux]
+categories: [Sistema operativo]
 tags: [linux,alpine,install]     # TAG names should always be lowercase
 ---
 

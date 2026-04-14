@@ -22,8 +22,9 @@ Se dispone de varias opciones de descarga, pero dado que se implementará sobre 
 
 ![Download](assets/posts/2026-04-14/2026-04-14_01.png)
 
+# Sistema operativo
 
-# Instalación del sistema operativo
+## Instalación del sistema operativo
 
 Una vez descargada la imagen y mapeada en la máquina virtual, se procederá a iniciar.
 
@@ -247,7 +248,9 @@ Installation is complete. Please reboot.
 
 Ya podemos apagar el equipo, con el comando `poweroff`.
 
-# Configuración de repositorios
+# Repositorios
+
+## Configuración de repositorios
 
 Una vez instalado el sistema, nos puede interesar habilitar otros repositorios, por ejemplo el repositorio de comunitario.
 

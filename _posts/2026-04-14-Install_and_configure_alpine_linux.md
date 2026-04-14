@@ -12,7 +12,9 @@ La instalación de Alpine Linux, es un proceso un tanto diferente al de otras di
 {: .prompt-info }
 <!-- markdownlint-restore -->
 
-# Descarga de la ISO
+# Imagen ISO
+
+## Descarga de la ISO
 
 La descarga de la ISO, se puede realizar accediendo a la siguiente página: <https://www.alpinelinux.org/downloads/>
 

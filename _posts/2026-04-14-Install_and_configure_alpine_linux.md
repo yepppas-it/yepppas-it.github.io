@@ -12,7 +12,7 @@ La instalación de Alpine Linux, es un proceso un tanto diferente al de otras di
 {: .prompt-info }
 <!-- markdownlint-restore -->
 
-## Descarga de la ISO
+# Descarga de la ISO
 
 La descarga de la ISO, se puede realizar accediendo a la siguiente página: <https://www.alpinelinux.org/downloads/>
 
@@ -21,7 +21,7 @@ Se dispone de varias opciones de descarga, pero dado que se implementará sobre 
 ![Download](assets/posts/2026-04-14/2026-04-14_01.png)
 
 
-## Instalación del sistema operativo
+# Instalación del sistema operativo
 
 Una vez descargada la imagen y mapeada en la máquina virtual, se procederá a iniciar.
 
@@ -245,7 +245,7 @@ Installation is complete. Please reboot.
 
 Ya podemos apagar el equipo, con el comando `poweroff`.
 
-## Configuración de repositorios
+# Configuración de repositorios
 
 Una vez instalado el sistema, nos puede interesar habilitar otros repositorios, por ejemplo el repositorio de comunitario.
 

@@ -14,12 +14,11 @@ La instalación de Alpine Linux, es un proceso un tanto diferente al de otras di
 
 # Descarga de la ISO
 
-La descarga de la ISO, se puede realizar accediendo a la siguiente página: https://www.alpinelinux.org/downloads/
+La descarga de la ISO, se puede realizar accediendo a la siguiente página: <https://www.alpinelinux.org/downloads/>
 
 Se dispone de varias opciones de descarga, pero dado que se implementará sobre una máquina virtual, utilizaremos la versión **VIRTUAL**.
 
-![Download](assets/posts/2026-04-14/2026-04-14_01.png)
-
+![Download](assets/posts/2026-04-14/2026-04-14_01.png){: width="972" height="589" .w-50 .left}
 
 
 # Instalación del sistema operativo

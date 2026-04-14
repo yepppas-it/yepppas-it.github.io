@@ -1,6 +1,6 @@
 ---
 title: Instalación de Podman en Alpine Linux
-categories: [Sistema operativo,Alpine Linux]
+categories: [Podman]
 tags: [linux,alpine,podman,install]     # TAG names should always be lowercase
 ---
 

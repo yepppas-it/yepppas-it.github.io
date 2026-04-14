@@ -65,3 +65,27 @@ Kernel 6.18.7-0-virt on x86_64 (/dev/tty1)
 
 localhost login: _
 ```
+
+Nos logearemos como **root**.
+
+Una vez autenticado, ejecutaremos el siguiente comando.
+
+```bash
+setup-apline
+```
+
+```bash
+localhost:~# setup-alpine
+
+ALPINE LINUX INSTALL
+--------------------
+
+Keymap
+------
+af   al   am   ara  at   az   ba   bd   be   bg   br   brai by   ca   ch   cm   cn   cz   de   dk   dz   ee   epo  es   fi   fo
+fr   gb   ge   gh   gr   hr   hu   id   ie   il   in   iq   ir   is   it   jp   ke   kg   kr   kz   la   latam lk   lt   lu   ma
+md   me   mk   ml   mm   mt   my   ng   nl   no   nz   ph   pk   pl   pt   ro   rs   ru   se   si   sk   sy   th   tj   tm   tr
+tu   ua   us   uz   vn
+
+Select keyboard layout: [none] _
+```

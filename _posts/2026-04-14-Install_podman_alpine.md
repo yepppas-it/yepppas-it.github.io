@@ -1,6 +1,6 @@
 ---
 title: Instalación de Podman en Alpine Linux
-categories: [Podman]
+categories: [Virtualización,Podman]
 tags: [linux,alpine,podman,install]     # TAG names should always be lowercase
 ---
 

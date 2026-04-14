@@ -66,7 +66,6 @@ Kernel 6.18.7-0-virt on x86_64 (/dev/tty1)
 localhost login: _
 ```
 
-
 Nos logearemos como **root**.
 
 Una vez autenticado, ejecutaremos el siguiente comando.

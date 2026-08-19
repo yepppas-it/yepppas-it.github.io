@@ -1,5 +1,5 @@
 ---
-title: [Marcadores públicos]
+title: "(Marcadores públicos)"
 categories: ["(Bookmarks)"]
 ---
 

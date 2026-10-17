@@ -1,6 +1,6 @@
 ---
 title: Personalizar configuración de VIM
-categories: [Editor de texto,VIM]
+categories: [General,Editor de texto,VIM]
 tags: [VIM,Markdown]     # TAG names should always be lowercase
 ---
 

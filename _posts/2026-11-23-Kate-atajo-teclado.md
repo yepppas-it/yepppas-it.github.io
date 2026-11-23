@@ -1,5 +1,5 @@
 ---
-title: Kate - Atajos de teclado
+title: Atajos de teclado para Kate
 categories: [General,Editor de texto,Kate]
 tags: [kate,shortcut]     # TAG names should always be lowercase
 ---

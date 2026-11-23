@@ -11,6 +11,16 @@ Una de las características más interesantes de Kate es la gran cantidad de ata
 
 # Edición multicursor: modificar varias líneas simultáneamente
 
+La edición multicursor, permite modificar múltiples líneas a la vez. 
+
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+> Esto es muy útil cuando deseamos comentar una parte o todo el texto de un código o configuración.
+{: .prompt-tip }
+<!-- markdownlint-restore -->
+
 1. Pulsa <kbd>Ctrl</kbd> + <kbd>A</kbd>, para seleccionar todo el texto.
 2. Pulsa <kbd>Alt</kbd> + <kbd>Mayus</kbd> + <kbd>I</kbd>. Esto creará un cursor en cada línea de selección.
 3. Pulsa <kbd>Inicio</kbd>, para mover todos los cursores al principio de cada línea.
+4. Escribiremos el caracter deseado a insertar. En nuestro caso el caracter `#` para comentar todas las líneas de un archivo.
+5. Pulsaremos <kbd>Esc</kbd> cuando se termine para volver a un solo cursor.

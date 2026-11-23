@@ -7,7 +7,7 @@ tags: [kate,shortcut]     # TAG names should always be lowercase
 Kate es un editor de texto avanzado, gratuito y de código abierto, que ofrece numerosas herramientas para facilitar la edición de texto y código. 
 Además de las funciones habituales de un editor, incorpora características que permiten agilizar tareas repetitivas, trabajar con múltiples documentos y personalizar el entorno de trabajo.
 
-Una de las características más interesantes de Kate es la gran cantidad de atajos de teclado que incorpora. En este artículo, voy a listar algunas de las que considero más útiles.
+Una de las características más interesantes de Kate es la gran cantidad de [atajos de teclado](https://docs.kde.org/stable_kf6/en/kate/katepart/keybindings.html) que incorpora. En este artículo, voy a listar algunas de las que considero más útiles.
 
 # Edición multicursor: modificar varias líneas simultáneamente
 

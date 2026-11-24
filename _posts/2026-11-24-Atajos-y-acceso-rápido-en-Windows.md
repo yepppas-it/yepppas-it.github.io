@@ -32,7 +32,32 @@ Son complementos que se cargan directamente dentro de la interfaz de mmc.exe:
 - `perfmon.msc`: Monitor de rendimiento.
 - `certmgr.msc`: Administrador de certificados del usuario actual (certlm.msc para el equipo local).
 
+## Diagnóstico, red y sistema (`.exe`)
+
+- `msinfo32`: Información detallada del hardware y software del sistema.
+- `dxdiag`: Herramienta de diagnóstico de DirectX (útil para revisar GPU, sonido y controladores).
+- `resmon`: Monitor de recursos (uso detallado de CPU, memoria, disco y red).
+- `perfmon` /`rel`: Monitor de confiabilidad (historial visual de errores críticos y actualizaciones).
+- `regedit`: Editor del Registro de Windows.
+- `msconfig`: Configuración del sistema (arranque y servicios).
+- `taskmgr`: Administrador de tareas.
+- `mstsc`: Conexión a Escritorio remoto (RDP).
+- `cmd` / `wt` / `powershell`: Símbolo del sistema, Windows Terminal o PowerShell.
+- `cleanmgr`: Liberador de espacio en disco.
+- `mdsched`: Diagnóstico de memoria de Windows (requiere reinicio).
+
+## Paneles de configuración rápida (`.cpl`)
+
+Abren directamente las pestañas clásicas del Panel de control:
+
+- `ncpa.cpl`: Conexiones de red (adaptadores Ethernet/Wi-Fi).
+- `appwiz.cpl`: Programas y características (desinstalar software).
+- `sysdm.cpl`: Propiedades del sistema (nombre del equipo, dominio, variables de entorno y rendimiento).
+- `inetcpl.cpl`: Propiedades de Internet (proxy y certificados).
+- `firewall.cpl`: Firewall de Windows Defender.
+- `powercfg.cpl`: Opciones de energía.
+- `control`: Panel de control general.
 
 
-# Atajos de teclado
+# [Atajos de teclado](https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows)
 

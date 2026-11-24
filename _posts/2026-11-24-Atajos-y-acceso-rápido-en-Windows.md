@@ -61,3 +61,8 @@ Abren directamente las pestañas clásicas del Panel de control:
 
 # [Atajos de teclado](https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows)
 
+## Atajos de teclado con la tecla Windows
+
+Al combinar la tecla Windows con otras teclas, puede realizar rápidamente tareas comunes.
+
+- <kbd>Win</kbd> + <kbd>v</kbd> → Abre el historial del portapapeles.

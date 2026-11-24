@@ -15,7 +15,8 @@ Para comentar/descomentar la línea actual o un bloque de texto seleccionado, ap
 
 - <kbd>Ctrl</kbd> + <kbd>d</kbd> → Añade automáticamente el símbolo de comentario correcto según el lenguaje o resaltado de sintaxis del archivo.
 - <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd> → Quita el comentario correcto según el lenguaje o resaltado de sintaxis del archivo.
- 
+
+# Mover una línea 
 
 # Edición multicursor: modificar varias líneas simultáneamente
 

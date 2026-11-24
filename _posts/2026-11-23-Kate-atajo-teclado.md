@@ -9,16 +9,30 @@ Además de las funciones habituales de un editor, incorpora características que
 
 Una de las características más interesantes de Kate es la gran cantidad de [atajos de teclado](https://docs.kde.org/stable_kf6/en/kate/katepart/keybindings.html) que incorpora. En este artículo, voy a listar algunas de las que considero más útiles.
 
-# Comentar una línea o bloque de líneas
+# Atajos de teclado
 
-Para comentar/descomentar la línea actual o un bloque de texto seleccionado, aplicando el símbolo de comentario correcto de forma automática.
+Se detallan según tipo de acción, los atajos de teclado.
+
+## Comentar una línea o bloque de líneas
+
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+> Para comentar/descomentar la línea actual o un bloque de texto seleccionado, aplicando el símbolo de comentario correcto de forma automática.
+{: .prompt-info }
+<!-- markdownlint-restore -->
 
 - <kbd>Ctrl</kbd> + <kbd>d</kbd> → Añade automáticamente el símbolo de comentario correcto según el lenguaje o resaltado de sintaxis del archivo.
 - <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd> → Quita el comentario correcto según el lenguaje o resaltado de sintaxis del archivo.
 
 # Mover una línea 
 
-# Edición multicursor: modificar varias líneas simultáneamente
+
+
+# Procedimientos
+
+Se detallan procedimientos que requieren el uso de diferentes combinaciones teclas.
+
+## Edición multicursor: modificar varias líneas simultáneamente
 
 La edición multicursor, permite modificar múltiples líneas a la vez. 
 

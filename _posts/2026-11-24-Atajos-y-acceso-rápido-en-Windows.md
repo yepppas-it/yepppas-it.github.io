@@ -13,11 +13,11 @@ Referencia rápida sobre navegación y gestión ágil en Windows.
 <!-- markdownlint-restore -->
 
 
-# Comandos de ejecución directa
+## Comandos de ejecución directa
 
 Existen decenas de comandos de ejecución directa que puedes lanzar desde el cuadro Ejecutar (Win + R), el menú Inicio o la terminal sin escribir su extensión.
 
-## Consolas de administración (`.msc`)
+### Consolas de administración (`.msc`)
 
 Son complementos que se cargan directamente dentro de la interfaz de mmc.exe:
 - `devmgmt.msc`: Administrador de dispositivos.
@@ -32,7 +32,7 @@ Son complementos que se cargan directamente dentro de la interfaz de mmc.exe:
 - `perfmon.msc`: Monitor de rendimiento.
 - `certmgr.msc`: Administrador de certificados del usuario actual (certlm.msc para el equipo local).
 
-## Diagnóstico, red y sistema (`.exe`)
+### Diagnóstico, red y sistema (`.exe`)
 
 - `msinfo32`: Información detallada del hardware y software del sistema.
 - `dxdiag`: Herramienta de diagnóstico de DirectX (útil para revisar GPU, sonido y controladores).
@@ -46,7 +46,7 @@ Son complementos que se cargan directamente dentro de la interfaz de mmc.exe:
 - `cleanmgr`: Liberador de espacio en disco.
 - `mdsched`: Diagnóstico de memoria de Windows (requiere reinicio).
 
-## Paneles de configuración rápida (`.cpl`)
+### Paneles de configuración rápida (`.cpl`)
 
 Abren directamente las pestañas clásicas del Panel de control:
 
@@ -59,9 +59,9 @@ Abren directamente las pestañas clásicas del Panel de control:
 - `control`: Panel de control general.
 
 
-# [Atajos de teclado](https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows)
+## [Atajos de teclado](https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows)
 
-## Atajos de teclado con la tecla Windows
+### Atajos de teclado con la tecla Windows
 
 Al combinar la tecla Windows con otras teclas, puede realizar rápidamente tareas comunes.
 

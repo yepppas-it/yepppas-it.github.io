@@ -6,13 +6,6 @@ tags: [windows,shortcut]     # TAG names should always be lowercase
 
 Referencia rápida sobre navegación y gestión ágil en Windows.
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-> En este artículo se recopilan atajos de teclado clave para agilizar el entorno de trabajo y comandos de ejecución directa (<kbd>Win</kbd> + <kbd>R</kbd>) indispensables para lanzar consolas y herramientas de diagnóstico al instante.
-{: .prompt-info }
-<!-- markdownlint-restore -->
-
-
 ## Comandos de ejecución directa
 
 Existen decenas de comandos de ejecución directa que puedes lanzar desde el cuadro Ejecutar (Win + R), el menú Inicio o la terminal sin escribir su extensión.
@@ -60,6 +53,12 @@ Abren directamente las pestañas clásicas del Panel de control:
 
 
 ## [Atajos de teclado](https://support.microsoft.com/es-es/accessibility/windows/keyboard-shortcuts-in-windows)
+
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+> En esta sección se recopilan comandos de ejecución directa, que se pueden ejecutar pulsando previamente <kbd>Win</kbd> + <kbd>R</kbd>.
+{: .prompt-info }
+<!-- markdownlint-restore -->
 
 ### Atajos de teclado con la tecla Windows
 

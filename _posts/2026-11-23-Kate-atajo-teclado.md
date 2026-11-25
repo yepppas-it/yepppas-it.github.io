@@ -13,20 +13,47 @@ Una de las características más interesantes de Kate es la gran cantidad de [at
 
 Se detallan según tipo de acción, los atajos de teclado.
 
-### Comentar una línea o bloque de líneas
+### Navegación y desplazamiento
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-> Para comentar/descomentar la línea actual o un bloque de texto seleccionado, aplicando el símbolo de comentario correcto de forma automática.
-{: .prompt-info }
-<!-- markdownlint-restore -->
+- <kbd>Ctrl</kbd> + <kbd>←</kbd> | <kbd>Ctrl</kbd> + <kbd>→</kbd> → Desplaza el cursor una palabra completa hacia la izquierda o hacia la derecha.
+- <kbd>Ctrl</kbd> + <kbd>g</kbd> → Se desplaza al número de línea específico.
+- <kbd>Ctrl</kbd> + <kbd>6</kbd> → Salta al corchete, llave o paréntesis coincidente.
+- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd> → Mueve el cursor una línea hacia arriba.
+- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd> → Mueve el cursor una línea hacia abajo.
 
+### Edicion  de texto y líneas
+
+- <kbd>Ctrl</kbd> + <kbd>k</kbd> → Elimina una línea completa.
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd> → Mueve la línea del cursor hacia arriba.
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd> → Mueve la línea del cursor hacia abajo.
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd> → Añade cursor/es por encima del curso, haciendo que se pueda escribir en todos los cursores.
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>↓</kbd> → Añade cursos/es por debajo del curso, haciendo que se pueda escribir en todos los cursores.
+- <kbd>Ctrl</kbd> + <kbd>j</kbd> → Une la línea inferior con la línea del cursor.
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> → Inserta una nueva línea debajo de la actual.
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Enter</kbd> → Inserta una nueva línea encima de la actual.
+- <kbd>Ctrl</kbd> + <kbd>u</kbd> → Convierte selección a MAYÚSCULAS.
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>u</kbd> → Convierte selección a minúsculas.
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>u</kbd> → Capitaliza (pone en mayúsculas) la primera letra de cada palabra.
+
+
+### Programación y código
+
+- <kbd>Ctrl</kbd> + <kbd>Space</kbd> → Invoca el autocompletado de código.
 - <kbd>Ctrl</kbd> + <kbd>d</kbd> → Añade automáticamente el símbolo de comentario correcto según el lenguaje o resaltado de sintaxis del archivo.
 - <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd> → Quita el comentario correcto según el lenguaje o resaltado de sintaxis del archivo.
+- <kbd>Ctrl</kbd> + <kbd>i</kbd> → Aplica identación a la línea de cursor. 
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>i</kbd> → Quita identación a la línea de cursor. 
 
-### Mover una línea 
+### Selección y multicursor
 
-Test
+
+
+
+### Búsqueda, archivo e interfaz
+
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> → Abre la paleta de comandos (buscador de acciones rápidas).
+
+
 
 ## Procedimientos
 

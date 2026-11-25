@@ -15,11 +15,9 @@ Se detallan según tipo de acción, los atajos de teclado.
 
 ### Navegación y desplazamiento
 
-- <kbd>Ctrl</kbd> + <kbd>←</kbd> | <kbd>Ctrl</kbd> + <kbd>→</kbd> → Desplaza el cursor una palabra completa hacia la izquierda o hacia la derecha.
+- <kbd>Ctrl</kbd> + <kbd>←</kbd> → Desplaza el cursor una palabra completa hacia la izquierda.
+- <kbd>Ctrl</kbd> + <kbd>→</kbd> → Desplaza el cursor una palabra completa hacia la derecha.
 - <kbd>Ctrl</kbd> + <kbd>g</kbd> → Se desplaza al número de línea específico.
-- <kbd>Ctrl</kbd> + <kbd>6</kbd> → Salta al corchete, llave o paréntesis coincidente.
-- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd> → Mueve el cursor una línea hacia arriba.
-- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd> → Mueve el cursor una línea hacia abajo.
 
 ### Edicion  de texto y líneas
 
@@ -46,13 +44,21 @@ Se detallan según tipo de acción, los atajos de teclado.
 
 ### Selección y multicursor
 
-
+- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd> → Mueve el cursor una línea hacia arriba.
+- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd> → Mueve el cursor una línea hacia abajo.
+- <kbd>Ctrl</kbd> + <kbd>a</kbd> → Selecciona todo el texto.
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>a</kbd> → Deselecciona todo el texto.
+- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Home</kbd> → Selecciona todo el texto que hay encima del cursor hasta el principio del documento.
+- <kbd>Ctrl</kbd> + <kbd>6</kbd> → Salta al corchete, llave o paréntesis coincidente.
+- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>6</kbd> → Selecciona hasta el corchete o llave coincidente.
+- <kbd>Alt</kbd> + <kbd>j</kbd> → Buscar y seleccionar la siguiente coincidencia de la palabra bajo el cursor.
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>j</kbd> → Buscar y seleccionar la siguiente coincidencia de la palabra sobre el cursor.
 
 
 ### Búsqueda, archivo e interfaz
 
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> → Abre la paleta de comandos (buscador de acciones rápidas).
-
+- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>o</kbd> → Activar/desactivar la revisión ortográfica automática.
 
 
 ## Procedimientos

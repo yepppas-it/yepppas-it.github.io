@@ -19,7 +19,3 @@ Se detallan según tipo de acción, los atajos de teclado.
 > <kbd>Ctrl</kbd> + <kbd>k</kbd> <kbd>Ctrl</kbd> + <kbd>s</kbd> → Abre el panel de información de atajos de teclado en la aplicación.
 {: .prompt-tip }
 <!-- markdownlint-restore -->
-
-
-### Programación y código
-
